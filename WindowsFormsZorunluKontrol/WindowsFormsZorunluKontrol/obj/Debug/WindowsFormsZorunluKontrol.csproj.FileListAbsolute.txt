@@ -1,0 +1,13 @@
+C:\Users\Admin\source\repos\WindowsFormsZorunluKontrol\WindowsFormsZorunluKontrol\bin\Debug\WindowsFormsZorunluKontrol.exe.config
+C:\Users\Admin\source\repos\WindowsFormsZorunluKontrol\WindowsFormsZorunluKontrol\bin\Debug\WindowsFormsZorunluKontrol.exe
+C:\Users\Admin\source\repos\WindowsFormsZorunluKontrol\WindowsFormsZorunluKontrol\bin\Debug\WindowsFormsZorunluKontrol.pdb
+C:\Users\Admin\source\repos\WindowsFormsZorunluKontrol\WindowsFormsZorunluKontrol\bin\Debug\ZorunluAlanLibrary.dll
+C:\Users\Admin\source\repos\WindowsFormsZorunluKontrol\WindowsFormsZorunluKontrol\bin\Debug\ZorunluAlanLibrary.pdb
+C:\Users\Admin\source\repos\WindowsFormsZorunluKontrol\WindowsFormsZorunluKontrol\obj\Debug\WindowsFormsZorunluKontrol.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\WindowsFormsZorunluKontrol\WindowsFormsZorunluKontrol\obj\Debug\WindowsFormsZorunluKontrol.Form1.resources
+C:\Users\Admin\source\repos\WindowsFormsZorunluKontrol\WindowsFormsZorunluKontrol\obj\Debug\WindowsFormsZorunluKontrol.Properties.Resources.resources
+C:\Users\Admin\source\repos\WindowsFormsZorunluKontrol\WindowsFormsZorunluKontrol\obj\Debug\WindowsFormsZorunluKontrol.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\WindowsFormsZorunluKontrol\WindowsFormsZorunluKontrol\obj\Debug\WindowsFormsZorunluKontrol.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\WindowsFormsZorunluKontrol\WindowsFormsZorunluKontrol\obj\Debug\WindowsF.5AA06052.Up2Date
+C:\Users\Admin\source\repos\WindowsFormsZorunluKontrol\WindowsFormsZorunluKontrol\obj\Debug\WindowsFormsZorunluKontrol.exe
+C:\Users\Admin\source\repos\WindowsFormsZorunluKontrol\WindowsFormsZorunluKontrol\obj\Debug\WindowsFormsZorunluKontrol.pdb

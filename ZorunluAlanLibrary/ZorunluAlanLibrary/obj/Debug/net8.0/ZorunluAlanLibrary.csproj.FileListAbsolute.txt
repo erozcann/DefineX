@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\ZorunluAlanLibrary\ZorunluAlanLibrary\bin\Debug\net8.0\ZorunluAlanLibrary.deps.json
+C:\Users\Admin\source\repos\ZorunluAlanLibrary\ZorunluAlanLibrary\bin\Debug\net8.0\ZorunluAlanLibrary.dll
+C:\Users\Admin\source\repos\ZorunluAlanLibrary\ZorunluAlanLibrary\bin\Debug\net8.0\ZorunluAlanLibrary.pdb
+C:\Users\Admin\source\repos\ZorunluAlanLibrary\ZorunluAlanLibrary\obj\Debug\net8.0\ZorunluAlanLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\ZorunluAlanLibrary\ZorunluAlanLibrary\obj\Debug\net8.0\ZorunluAlanLibrary.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\ZorunluAlanLibrary\ZorunluAlanLibrary\obj\Debug\net8.0\ZorunluAlanLibrary.AssemblyInfo.cs
+C:\Users\Admin\source\repos\ZorunluAlanLibrary\ZorunluAlanLibrary\obj\Debug\net8.0\ZorunluAlanLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\ZorunluAlanLibrary\ZorunluAlanLibrary\obj\Debug\net8.0\ZorunluAlanLibrary.dll
+C:\Users\Admin\source\repos\ZorunluAlanLibrary\ZorunluAlanLibrary\obj\Debug\net8.0\refint\ZorunluAlanLibrary.dll
+C:\Users\Admin\source\repos\ZorunluAlanLibrary\ZorunluAlanLibrary\obj\Debug\net8.0\ZorunluAlanLibrary.pdb
+C:\Users\Admin\source\repos\ZorunluAlanLibrary\ZorunluAlanLibrary\obj\Debug\net8.0\ref\ZorunluAlanLibrary.dll

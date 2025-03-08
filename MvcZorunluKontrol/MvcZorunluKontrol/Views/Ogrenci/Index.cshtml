@@ -1,0 +1,35 @@
+﻿@model MvcZorunluKontrol.Models.Ogrenci
+
+@{
+    ViewBag.Title = "Öğrenci Bilgi Formu";
+}
+
+<h2>Öğrenci Bilgi Formu</h2>
+
+@if (ViewBag.Mesaj != null)
+{
+    <div class="alert alert-info">@ViewBag.Mesaj</div>
+}
+
+@using (Html.BeginForm("Index", "Ogrenci", FormMethod.Post))
+{
+    <div class="form-group">
+        <label>Adı:</label>
+        @Html.TextBoxFor(m => m.Adi, new { @class = "form-control" })
+        @Html.ValidationMessageFor(m => m.Adi, "", new { @class = "text-danger" })
+    </div>
+
+    <div class="form-group">
+        <label>Soyadı:</label>
+        @Html.TextBoxFor(m => m.Soyadi, new { @class = "form-control" })
+        @Html.ValidationMessageFor(m => m.Soyadi, "", new { @class = "text-danger" })
+    </div>
+
+    <div class="form-group">
+        <label>Bölüm:</label>
+        @Html.TextBoxFor(m => m.Bolum, new { @class = "form-control" })
+        @Html.ValidationMessageFor(m => m.Bolum, "", new { @class = "text-danger" })
+    </div>
+
+    <button type="submit" class="btn btn-primary">Gönder</button>
+}

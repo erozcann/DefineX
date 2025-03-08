@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\ConsoleZorunluKontrol\ConsoleZorunluKontrol\bin\Debug\ConsoleZorunluKontrol.exe.config
+C:\Users\Admin\source\repos\ConsoleZorunluKontrol\ConsoleZorunluKontrol\bin\Debug\ConsoleZorunluKontrol.exe
+C:\Users\Admin\source\repos\ConsoleZorunluKontrol\ConsoleZorunluKontrol\bin\Debug\ConsoleZorunluKontrol.pdb
+C:\Users\Admin\source\repos\ConsoleZorunluKontrol\ConsoleZorunluKontrol\bin\Debug\ZorunluAlanLibrary.dll
+C:\Users\Admin\source\repos\ConsoleZorunluKontrol\ConsoleZorunluKontrol\bin\Debug\ZorunluAlanLibrary.pdb
+C:\Users\Admin\source\repos\ConsoleZorunluKontrol\ConsoleZorunluKontrol\obj\Debug\ConsoleZorunluKontrol.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\ConsoleZorunluKontrol\ConsoleZorunluKontrol\obj\Debug\ConsoleZorunluKontrol.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\ConsoleZorunluKontrol\ConsoleZorunluKontrol\obj\Debug\ConsoleZ.245A0B3A.Up2Date
+C:\Users\Admin\source\repos\ConsoleZorunluKontrol\ConsoleZorunluKontrol\obj\Debug\ConsoleZorunluKontrol.exe
+C:\Users\Admin\source\repos\ConsoleZorunluKontrol\ConsoleZorunluKontrol\obj\Debug\ConsoleZorunluKontrol.pdb
